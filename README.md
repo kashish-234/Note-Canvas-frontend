@@ -11,7 +11,7 @@ Follow these steps to set up and run the project locally:
 
 git clone https://github.com/kashish-234/Note-Canvas-frontend.git
 
-cd note-canvas
+cd Note-Canvas-frontend
 
 ```
 
@@ -33,7 +33,7 @@ pnpm dev
 
 Open [http://localhost:3000](http://localhost:3000) in your browser to view the app.
 
-You can start making changes by editing `pages/index.tsx`. The page will auto-update as you save.
+You can start making changes by editing `app/page.tsx`. The page will auto-update as you save.
 
 ## Features
 
