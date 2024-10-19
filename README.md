@@ -9,7 +9,7 @@ Follow these steps to set up and run the project locally:
 
 ```bash
 
-git clone https://github.com/yourusername/note-canvas.git
+git clone https://github.com/kashish-234/Note-Canvas-frontend.git
 
 cd note-canvas
 
